@@ -651,7 +651,7 @@ int main(void)
                 printf("Os valores do set point tem que se variar entre -20 e 20.\n");
                 flush_input_buffer(); // Ensure to clear any remaining input
             }
-
+            system("clear");
             break;
         case 3:
             system("clear");
@@ -679,7 +679,7 @@ int main(void)
                 printf("O valor da frequencia tem que ser entre 1 e 5 Hz.\n");
                 flush_input_buffer(); // Ensure to clear any remaining input
             }
-
+            system("clear");
             break;
         case 4:
             system("clear");
