@@ -8,4 +8,4 @@ Windows 8.1 até 11 pro deve usar o WSL para execucao de threads e pipes em linu
 
 - gcc -Wall -Wextra -pedantic -std=c99 -pthread -o tcf.o main_tcf.c
 
-## Execute em ./tcf.o
+## Execute em ./tcf.o (Linux e MAC OS X)
